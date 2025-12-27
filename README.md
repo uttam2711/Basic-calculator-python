@@ -30,4 +30,6 @@ This project was created to strengthen my understanding of **Python functions, l
 ```bash
 python calculator.py
 
-   <img width="537" height="515" alt="image" src="https://github.com/user-attachments/assets/69c41701-fb50-41fe-ba08-0bfd4404c5ca" />
+  <img width="538" height="515" alt="Screenshot 2025-12-01 005438" src="https://github.com/user-attachments/assets/6d4a7417-145a-4a81-b101-77b96ebbf328" />
+
+
